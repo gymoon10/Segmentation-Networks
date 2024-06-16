@@ -83,9 +83,15 @@ transformer): https://arxiv.org/abs/2109.04335
 setr.py (Rethinking semantic segmentation from 
 a  sequence-to-sequence  perspective  with  transformers): https://arxiv.org/abs/2012.15840
 
+<br/>
 
+segnext (Segnext: Rethinking convolutional 
+attention design for semantic segmentation): https://arxiv.org/abs/2209.08575
 
+<br/>
 
+subpixelsembedding (Small Lesion Segmentation in Brain MRIs 
+with  Subpixel  Embedding): https://arxiv.org/abs/2109.08791
 
 
 
