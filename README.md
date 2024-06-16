@@ -35,5 +35,59 @@ learning  for  visual  recognition): https://arxiv.org/pdf/1908.07919
 
 <br/>
 
+lawin (Lawin 
+transformer: Improving semantic segmentation transformer with 
+multi-scale  representations  via  large  window  attention): https://arxiv.org/pdf/2201.01615
+
+<br/>
+
+MANet.py (Ma-net: A multi-scale attention network 
+for liver and tumor segmentation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201310
+
+<br/>
+
+mcinet.py (Mci-net: multi-scale context integrated 
+network for liver ct image segmentation): https://www.sciencedirect.com/science/article/abs/pii/S0045790622003408
+
+<br/>
+
+mfnet.py (MFNet: Multi-Feature Fusion Network for 
+Real-Time  Semantic  Segmentation  in  Road  Scenes): https://ieeexplore.ieee.org/abstract/document/9839297
+
+<br/>
+
+paratranscnn.py (ParaTransCNN: Parallelized TransCNN Encoder for Medical Image Segmentation): https://arxiv.org/abs/2401.15307
+
+<br/>
+
+saunet.py (Saunet:   Shape   attentive  u-net   for 
+interpretable   medical   image   segmentation): https://arxiv.org/pdf/2001.07645
+
+<br/>
+
+transattunet.py (Transattunet:  Multi-level  attention- 
+guided u-net with transformer for medical image segmentation): https://arxiv.org/pdf/2107.05274
+
+<br/>
+
+TransUNet.py (TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation): https://arxiv.org/abs/2102.04306
+
+<br/>
+
+UCTransNet.py (Uctransnet:  rethinking  the  skip 
+connections  in  u-net  from  a  channel-wise  perspective  with 
+transformer): https://arxiv.org/abs/2109.04335
+
+
+
+
+
+
+
+
+
+
+
+
 
 
