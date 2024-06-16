@@ -93,6 +93,11 @@ attention design for semantic segmentation): https://arxiv.org/abs/2209.08575
 subpixelsembedding (Small Lesion Segmentation in Brain MRIs 
 with  Subpixel  Embedding): https://arxiv.org/abs/2109.08791
 
+<br/>
+
+sfnet (Semantic flow for fast and accurate scene 
+parsing): https://arxiv.org/abs/2002.10120
+
 
 
 
