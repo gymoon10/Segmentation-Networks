@@ -1,5 +1,8 @@
 # Segmentation-Networks
+
 Code of various segmentation networks
+
+**Notice**: These are networks used for comparative experiments in my paper, and they are codes extracted from Papers with Code and other GitHub repositories, not written by me
 
 cmunet.py (CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network): https://ieeexplore.ieee.org/abstract/document/10230609
 
