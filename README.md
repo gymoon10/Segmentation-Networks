@@ -4,7 +4,7 @@ Code of various segmentation networks
 
 **Notice**: These are networks used for comparative experiments in my paper, and they are codes extracted from Papers with Code or other GitHub repositories, not written by me. Unfortunately, I have forgotten the source repositories of the codes, so I couldn't note down the sources. However, you can refer to the paper title and link using Ctrl+F.
 
-**Please refer to "Usage.py" for instructions on usage**. Basically, their input shape is (N, 3, H, W) and the shape of network output is (N, num_classes, H, W)
+**Please refer to "Usage.py" for instructions on usage. Basically, their input shape is (N, 3, H, W) and the shape of network output is (N, num_classes, H, W).**
 
 <br/>
 
