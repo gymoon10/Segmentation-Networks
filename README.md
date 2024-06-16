@@ -78,6 +78,11 @@ UCTransNet.py (Uctransnet:  rethinking  the  skip
 connections  in  u-net  from  a  channel-wise  perspective  with 
 transformer): https://arxiv.org/abs/2109.04335
 
+<br/>
+
+setr.py (Rethinking semantic segmentation from 
+a  sequence-to-sequence  perspective  with  transformers): https://arxiv.org/abs/2012.15840
+
 
 
 
